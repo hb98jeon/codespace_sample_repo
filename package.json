@@ -1,0 +1,16 @@
+{
+  "name": "codespace_sample_repo",
+  "version": "1.0.0",
+  "description": "This is my sample repository for codespace sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hb98jeon/codespace_sample_repo"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
